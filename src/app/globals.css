@@ -1,0 +1,10 @@
+﻿@import "tailwindcss";
+
+html, body {
+  height: 100%;
+}
+
+/* smoother headings */
+.h1, .h2, h1, h2 {
+  letter-spacing: -0.01em;
+}

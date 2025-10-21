@@ -1,0 +1,18 @@
+﻿# Node / Next
+node_modules/
+.pnpm-store/
+.next/
+out/
+
+# Env
+.env*
+!.env.example
+!.env.local.example
+
+# Logs
+npm-debug.log*
+pnp.*.log
+
+# OS/misc
+.DS_Store
+Thumbs.db

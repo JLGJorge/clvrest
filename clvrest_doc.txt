@@ -1,0 +1,75 @@
+We need to create 3 .md files so Cursor and chatgpt doesn't hallucinate.
+
+Things to do:
+
+PRD - needs to be updated
+
+agents.md - to train cursor on how to work on the project and have a consistent work flow.
+Ask chatgpt to guide cursor and always read planning.md file at the start of every new conversation, check tasks.md file before starting your work and mark completed tasks immediately and add newly discovered tasks
+
+planning.md - capture all important architecture we need to build the project with technology stack and required tools list for this app. This should also be in the PRD document.
+
+
+tasks.md - track every single task that we need for the project to be completed with milestones.
+
+After those files are created, we need to download them in markdown format and paste them into project root directory.
+
+We also need a prompt for Cursor to read all those files. Check from task.md, planning.md to see where we are on the project and continue building.
+
+
+
+
+Brands- 
+able to dm creators and manage projects to see what creators they are working with and manage budgets.
+This need to be on a backend type management side with side panel that has tabs for budget, creators, settings, account deletion, tips for brand on how to work with talent, etc...
+creators can pitch brands if option enabled.
+able to delete or pause account.
+
+Creators-
+-able to pitch brands that are enabled to be pitched.
+-This need to be on a backend type management side with side panel that has tabs like (ex. linktree)for earnings, brands they have worked with, settings, account deletion, tips for creators on how to work with brands, profile set up, file and videos upload for portfolio, portfolio to be grid style, contact info, can see earnings, stats, badges earned, 
+-be given tips on how to get more gigs
+-able to delete account or pause account.
+
+Admin-
+-able to delete accounts brands and creators
+-able to see earnings, top brands/creators and stats.
+
+
+
+Landing page- 
+
+top bar menu and hamburger menu- about, faq, sign in, get started 
+
+hero section- a short headline focusing on what we do.
+
+Discover creators, connect with brands.
+Button: Find Creators, Find Brands
+
+Big headline, clean visuals and just enough personality to make people stay longer than 3 seconds.
+
+Pills: Search by Categories: UGC, Male, Female, Voiceover, etc...
+
+Section: Find Creators- Grid style with creator portfolios like a directory. Each card should have creator rank, badges if any, etc
+
+Section- Headline that bluntly brings up the main pain points about UGC
+and creators working with brands
+
+Section- The solution
+
+Section: Benefits of using our platform
+Introduce the benefits. Benefit )ne, Benefit Two, Benefit Three
+
+Section: Our process- How we help creators and brands connect. 3 Step process
+
+Section: Reasons why creators choose us
+
+Section: FAQ
+
+Section: Call to Action - email opt in
+
+Section: Footer
+
+	git config --global user.name "JLGJorge"
+git config --global user.email "pixelsjg@gmail.com"
+	
